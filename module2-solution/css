@@ -2,6 +2,10 @@
 
   box-sizing: border-box;
 }
+body {
+  background-color: pink;
+  margin-left:25px;
+}
 
 .row{
   width: 100%;
@@ -15,7 +19,7 @@ h1{
 
 p{
 	width: 90%;
-	height: 150%;
+	height: 100%;
   margin-right:auto;
   margin-left: auto;
   font-family: Helvetica;
@@ -27,6 +31,7 @@ div.ab {
     margin-right: 20px;
     margin-bottom: 20px;
     background-color: grey;
+    height:200px;
     
     
 } 
@@ -36,6 +41,7 @@ div.cd {
     margin-right: 20px;
     margin-bottom: 20px;
     background-color: grey;
+    height:200px;
     
     
 }
@@ -45,6 +51,7 @@ div.ef {
     margin-right: 20px;
     margin-bottom: 20px;
     background-color: grey;
+    height:200px;
     
     
 }
@@ -100,6 +107,7 @@ div.god {
   }
   .col-lg-1 {
      width: 8.33%;
+     height: 
   }
   .col-lg-2 {
      width: 16.66%;
