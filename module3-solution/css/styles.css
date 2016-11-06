@@ -1,0 +1,76 @@
+body {
+	background-color: white;
+	color: black;
+	font-size: 15px;
+	font-family: 'Oxygen', sans-serif;
+}
+
+#header-nav {
+	background-color: grey;
+	border-radius: 0;
+	border: 0;
+}
+
+
+.navbar-brand h1 {  /***Brand Name ***/
+	font-style: 'Lora', serif;
+	color: black;
+	font-size: 1.5em;
+	font-weight: bold;
+	text-shadow: 1px 1px 1px #222;
+    margin-top: 0;
+    margin-bottom: 0;
+    line-height: 0.75;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+	border: 1px solid black;
+}
+
+#nav-list {
+	margin-top: 10px;
+}
+
+#collapsable-nav a {
+    font-size: 1.2em;
+    font-weight: normal;
+    background-color: white;
+    border: 1px solid black;
+}
+
+#nav-list a {
+	color: black;
+}
+
+#nav-list a:hover {
+	background-color: pink;
+}
+
+
+ h2 {
+	font-size: 1.75em;
+	margin-top: 20px;
+	margin-bottom: 20px;
+
+}
+
+
+.ab {
+	background-color: grey;
+	width: 95%
+    margin:10px;
+}
+
+
+h3 {
+	margin-bottom: 20px;
+ }
+
+
+ p {
+ 	margin: 10px;
+ }
+
+
+
+
